@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+sentence-transformers
+faiss-cpu
+PyMuPDF
+requests
+python-multipart
