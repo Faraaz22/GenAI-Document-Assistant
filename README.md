@@ -1,4 +1,4 @@
-# EZ GenAI Document Assistant
+# GenAI Document Assistant
 
 A local AI-powered assistant for document understanding, Q&A, and logic-based challenge questions using Llama 3.2 (Ollama), FAISS, and FastAPI/Gradio.
 
