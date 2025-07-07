@@ -2,6 +2,8 @@
 
 A local AI-powered assistant for document understanding, Q&A, and logic-based challenge questions using Llama 3.2 (Ollama), FAISS, and FastAPI/Gradio.
 
+Link to the Postman Dump- https://web.postman.co/workspace/My-Workspace~aed8e94b-bbcd-41f4-8f4e-dcdf06fd6342/collection/36223447-cbc292e3-da12-4574-a045-1039b993068e?action=share&source=copy-link&creator=36223447
+
 ## Features
 - **Upload** PDF or TXT documents
 - **Auto-summary** (≤150 words) using Llama 3.2
@@ -75,20 +77,6 @@ python frontend.py
 2. View the summary and document ID.
 3. Use "Ask Anything" for Q&A.
 4. Use "Challenge Me" to get logic questions, answer, and evaluate.
-
----
-
-## Requirements
-- Python 3.8+
-- MySQL
-- Ollama (with Llama 3.2 model)
-
----
-
-## Notes
-- All LLM calls are local (no OpenAI API needed)
-- All answers are grounded in the uploaded document
-- For best results, use structured English documents
 
 ---
 
