@@ -2,7 +2,7 @@
 
 A local AI-powered assistant for document understanding, Q&A, and logic-based challenge questions using Llama 3.2 (Ollama), FAISS, and FastAPI/Gradio.
 
-Link to the Postman Dump- https://web.postman.co/workspace/My-Workspace~aed8e94b-bbcd-41f4-8f4e-dcdf06fd6342/collection/36223447-cbc292e3-da12-4574-a045-1039b993068e?action=share&source=copy-link&creator=36223447
+Link to the Postman Collection- https://web.postman.co/workspace/My-Workspace~aed8e94b-bbcd-41f4-8f4e-dcdf06fd6342/collection/36223447-cbc292e3-da12-4574-a045-1039b993068e?action=share&source=copy-link&creator=36223447
 
 ## Features
 - **Upload** PDF or TXT documents
