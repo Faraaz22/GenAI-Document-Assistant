@@ -92,10 +92,5 @@ python frontend.py
 
 ---
 
-## Authors
-- Your Name Here
-
----
-
 ## License
 MIT
